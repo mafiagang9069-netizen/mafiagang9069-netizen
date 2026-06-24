@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Sourav!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20I%20Build%20Real%2C%20Deployed%20Projects&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Sourav+%F0%9F%91%8B;I+build+real+apps+that+are+LIVE+online+%F0%9F%9A%80;Real-Time+Chat+|+Expense+Trackers+|+Typing+Tools;Always+building%2C+always+growing+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Sourav+%F0%9F%91%8B;I+build+real+apps+that+are+LIVE+online+%F0%9F%9A%80;Always+building%2C+always+growing+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 <br/>
 
