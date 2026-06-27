@@ -65,6 +65,19 @@ Click on any link below to experience my functional web platforms instantly!
 
 ---
 
+### 🔐 Login UI Kit — Premium Authentication UI
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-success?style=for-the-badge)](https://login-ui-s89s.onrender.com/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+* **Premium Authentication Pages:** Beautiful Login, Sign Up, Forgot Password, Reset Password, OTP Verification, Email Verification, Success, and 404 pages.
+* **Modern UI/UX:** Responsive Pink & White design featuring glassmorphism, smooth animations, floating labels, reusable components, and polished micro-interactions.
+* **Tech Stack:** HTML5, Bootstrap 5, CSS3, Vanilla JavaScript, deployed on Render.
+
+
 ## 🛠️ Tech Stack Core
 
 <div align="center">
